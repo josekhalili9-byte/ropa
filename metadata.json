@@ -1,0 +1,5 @@
+{
+  "name": "Outfit AI",
+  "description": "Analiza tu ropa con la cámara y recibe sugerencias de estilo usando IA.",
+  "requestFramePermissions": ["camera"]
+}
